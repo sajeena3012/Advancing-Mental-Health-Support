@@ -12,7 +12,7 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 - Deliver **personalized wellness recommendations**, crisis helplines, and support videos.
 - Built using **Streamlit** for real-time and private self-assessment.
 
----
+
 
 ## 🏗️ Project Architecture
 
@@ -29,7 +29,7 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 ### 🧩 Fusion Logic
 - A rule-based mechanism integrates both modalities to enhance prediction reliability.
 
----
+
 
 ## 🧪 Evaluation Metrics
 
@@ -37,7 +37,7 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 - **Audio Classifier Accuracy**: 93%
 - Metrics include: Precision, Recall, F1-Score, and Confusion Matrix.
 
----
+
 
 ## 🚀 How to Run the App
 
@@ -49,7 +49,6 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 
 4.The app will open in your browser at: http://localhost:8501
 
----
 
 ## ⚙️ Features
 
@@ -61,7 +60,7 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 
 4.Simple and user-friendly Streamlit interface.
 
----
+
 
 ## 📊 Technologies Used
 
@@ -77,7 +76,7 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 
 6.Matplotlib and Seaborn – Visualization
 
----
+
 
 ## 🧪 Future Scope
 1.Expand the model to support real-time monitoring.
@@ -86,17 +85,17 @@ An AI-powered web application that analyzes **text and audio inputs** to assess 
 
 3.Integrate with mobile applications or healthcare platforms.
 
----
+
 
 ## 📌 License
 This project is for educational and research purposes only.
 
----
+
 
 ## 📌 Disclaimer
 This project is intended for educational and research purposes only.
 
----
+
 
 ## ✨ Author
 Developed by Rukkiah Sajeena M 
