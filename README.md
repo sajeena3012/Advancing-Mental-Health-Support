@@ -2,7 +2,7 @@
 
 An AI-powered web application that analyzes **text and audio inputs** to assess a user’s mental health condition—specifically targeting **depression** and **suicidal tendencies**. This multimodal tool uses Machine Learning and Deep Learning to provide real-time screening, emotional state recognition, and tailored recommendations.
 
----
+
 
 ## 💡 Project Objective
 
